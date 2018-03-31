@@ -1,0 +1,10 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/everans/js/vue.min.js": "/everans/js/vue.min.js",
+    "/everans/js/axios.min.js": "/everans/js/axios.min.js",
+    "/everans/js/iview.min.js": "/everans/js/iview.min.js",
+    "/everans/js/nprogress.js": "/everans/js/nprogress.js",
+    "/everans/css/iview.css": "/everans/css/iview.css",
+    "/everans/css/nprogress.css": "/everans/css/nprogress.css"
+}
