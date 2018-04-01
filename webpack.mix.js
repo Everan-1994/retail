@@ -7,4 +7,5 @@ mix.js('resources/assets/js/app.js', 'public/js')
     .copyDirectory('resources/assets/everans/js/iview.min.js', 'public/everans/js')
     .copyDirectory('resources/assets/everans/js/nprogress.js', 'public/everans/js')
     .copyDirectory('resources/assets/everans/css/iview.css', 'public/everans/css')
-    .copyDirectory('resources/assets/everans/css/nprogress.css', 'public/everans/css');
+    .copyDirectory('resources/assets/everans/css/nprogress.css', 'public/everans/css')
+    .copyDirectory('resources/assets/everans/images/everan.gif', 'public/everans/images');

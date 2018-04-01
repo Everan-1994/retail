@@ -21,3 +21,22 @@
     </div>
 </div>
 @endsection
+
+@section('scripts')
+    <script>
+        new Vue({
+            el: '#app',
+            data: {
+
+            },
+            methods: {
+                start() {
+                    NProgress.start();
+                },
+                stop() {
+                    NProgress.done();
+                }
+            }
+        })
+    </script>
+@endsection

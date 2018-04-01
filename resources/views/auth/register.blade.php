@@ -75,3 +75,14 @@
     </div>
 </div>
 @endsection
+
+@section('scripts')
+    <script>
+        new Vue({
+            el: '#app',
+            data: {
+
+            },
+        })
+    </script>
+@endsection
